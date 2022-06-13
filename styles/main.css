@@ -1,0 +1,120 @@
+.father-box{
+  display: flex;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none;
+}
+
+.list{
+  list-style: none;
+  display: flex;
+  width: 422px;
+  justify-content: space-between;
+  color: #000000;
+
+}
+.icons{
+  list-style: none;
+width: 99px;
+display: flex;
+justify-content: space-between;
+}
+/* section-2 */
+.box{
+width: 1336px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.title{
+width: 258px; ;
+}
+.link{
+  color:white;
+  border: solid 1.5px black;
+  background-color: #000000;
+  /* section-1 */
+}
+/* section-3 */
+.box-img{
+  width: 1366px;
+  display: flex;
+  justify-content: space-between;
+}
+.heading{
+  /* width: 1366px;
+  display: flex;
+  justify-content: center;
+  align-items:flex-start; */
+  text-align: center;
+}
+.tagline{
+  list-style: none;
+  text-align: right;
+}
+.link-a{
+  color: #000000;
+}
+/* section-4 */
+.subtitle{
+  display: flex;
+  width: 1366px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.caption{
+  width: 376px;
+}
+.link-main{
+  border: solid 1.5px lightcoral;
+  background-color: lightcoral;
+  color: white;
+}
+/* section-5 */
+.new-box{
+  display: flex;
+  width: 1169px;
+  align-items: center;
+  justify-content: center;
+}
+.headline{
+  width: 376px;
+  color: #000000;
+}
+.link-wach{
+  color: #000000;
+}
+.items-ul{
+  width: 100px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.news-images{
+  width: 633px;
+  height: 462px;
+  display: flex;
+  
+}
+/* section-6 */
+.box-new{
+  width: 1366px;
+  border: solid 1.5 black;
+  background-color: rgba(53, 52, 52, 0.877);
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+}
+.box-aside{
+  color:white;
+}
+.aside-ul{
+  list-style: none;
+}
+
+.footer-link {
+  color: #fff
+}
